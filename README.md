@@ -7,7 +7,7 @@
 强烈推荐 Cloudcone家的主机，注册充值后，可代搭建， Telegram: @caonimagfw
 
 
-# RackNerd 特价VPS搜集
+# RackNerd 库存有效特价VPS搜集
 
 | No. | CPU | Memory | Blance | Price | Buy Link |
 | :------:| :------: | :------: | :------: | :------: | :------: |
