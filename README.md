@@ -1,3 +1,12 @@
+# Cloudcone 特价年付主机
+https://app.cloudcone.com.cn/vps/79/create?token=hashtag%202022%20vps%20-%201&ref=5179
+| No. | CPU | Memory | Blance | Price | Buy Link |
+| :------:| :------: | :------: | :------: | :------: | :------: |
+| #1 | 1 | 512MB |  2000GB | 9.9$ | [Buy](https://app.cloudcone.com.cn/vps/79/create?token=hashtag%202022%20vps%20-%201&ref=5179) |
+
+强烈推荐 Cloudcone家的主机，注册充值后，可代搭建， Telegram: @caonimagfw
+
+
 # RackNerd 特价VPS搜集
 
 | No. | CPU | Memory | Blance | Price | Buy Link |
