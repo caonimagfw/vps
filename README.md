@@ -2,7 +2,8 @@
 
 | No. | CPU | Memory | Blance | Price | Buy Link |
 | :------:| :------: | :------: | :------: | :------: | :------: |
-| #1 | 1 | 512MB |  2000GB | 9.9$ | [Buy](https://app.cloudcone.com.cn/vps/79/create?token=hashtag%202022%20vps%20-%201&ref=5179) |
+| #1 | 2C | 1G |  5000GB | 14.2$ | [Buy](https://app.cloudcone.com/vps/98/create?token=5th-bday-1&ref=5179) |
+
 
 强烈推荐 Cloudcone家的主机，注册充值后，可代搭建， Telegram: @caonimagfw
 
